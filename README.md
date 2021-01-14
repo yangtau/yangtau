@@ -21,8 +21,9 @@ https://github.com/anuraghazra/github-readme-stats
 
 - 🌱 I’m currently learning [distributed systems](https://pdos.csail.mit.edu/6.824) and [database systems](https://15445.courses.cs.cmu.edu).
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangtau&langs_count=6)
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&hide_border=true&langs_count=5)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangtau&langs_count=6&theme=graywhite" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&hide_border=true&theme=graywhite"/>
+</a>
