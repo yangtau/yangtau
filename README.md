@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://github.com/yangtau/yangtau/blob/main/github-metrics.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangtau&langs_count=8)
