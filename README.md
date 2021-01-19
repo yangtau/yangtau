@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-- 🔭 I’m currently working on a distributed database system (based on HBase)...
+- 🔭 I’m currently working on a distributed transaction processing system (based on HBase)...
 
 - 🌱 I’m currently learning [distributed systems](https://pdos.csail.mit.edu/6.824) and [database systems](https://15445.courses.cs.cmu.edu).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangtau&langs_count=6&theme=graywhite" />
+<img style="display:inline-block;vertical-align:top"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=yangtau&title_color=24292f&layout=compact&langs_count=6&hide_border=true" />  
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&hide_border=true&theme=graywhite"/>
+<img style="display:inline-block;vertical-align:top"
+  src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&layout=compact&title_color=24292f&layout=compact&hide_border=true" />
 </a>
