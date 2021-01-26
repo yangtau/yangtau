@@ -23,10 +23,10 @@ https://github.com/anuraghazra/github-readme-stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="display:inline-block;vertical-align:top"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=yangtau&title_color=24292f&layout=compact&langs_count=6&hide_border=true" />  
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=yangtau&layout=compact&langs_count=6&hide_border=true" />  
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="display:inline-block;vertical-align:top"
-  src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&layout=compact&title_color=24292f&layout=compact&hide_border=true" />
+  src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&layout=compact&hide_border=true" />
 </a>
