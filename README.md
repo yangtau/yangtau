@@ -28,5 +28,5 @@ https://github.com/anuraghazra/github-readme-stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="display:inline-block;vertical-align:top"
-  src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&layout=compact&hide_border=true" />
+  src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&layout=compact&hide_border=true&langs_count=4" />
 </a>
