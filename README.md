@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
+<!--
 - 🔭 I’m currently working on a distributed transaction processing system ([HBS](https://github.com/yangtau/hbs))...
+- -->
 
-- 🌱 I’m currently learning [distributed systems](https://pdos.csail.mit.edu/6.824) and [database systems](https://15445.courses.cs.cmu.edu).
+- 🌱 I’m currently learning [distributed systems](https://pdos.csail.mit.edu/6.824) and [kubernetes](https://kubernetes.io/).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="display:inline-block;vertical-align:top"
