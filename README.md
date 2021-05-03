@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [distributed systems](https://pdos.csail.mit.edu/6.824) and [kubernetes](https://kubernetes.io/).
-- 📫 How to reach me: [yangtau.me](yangtau.me)
+- 📫 How to reach me: [yangtau.me](https://yangtau.me)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="display:inline-block;vertical-align:top"
