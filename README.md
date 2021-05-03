@@ -6,22 +6,19 @@
 Here are some ideas to get you started:
 
 - 
-- 
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github.com/anuraghazra/github-readme-stats
+
 -->
 
-<!--
-- 🔭 I’m currently working on a distributed transaction processing system ([HBS](https://github.com/yangtau/hbs))...
-- -->
-
 - 🌱 I’m currently learning [distributed systems](https://pdos.csail.mit.edu/6.824) and [kubernetes](https://kubernetes.io/).
+- 📫 How to reach me: [yangtau.me](yangtau.me)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="display:inline-block;vertical-align:top"
