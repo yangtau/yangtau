@@ -17,17 +17,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning [distributed systems](https://pdos.csail.mit.edu/6.824) and [kubernetes](https://kubernetes.io/).
+- 🌱 I’m currently learning [LLVM](https://llvm.org/).
 - 📫 How to reach me: [yangtau.me](https://yangtau.me)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="display:inline-block;vertical-align:top"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=yangtau" />  
 </a>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img style="display:inline-block;vertical-align:top"
-  src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yangtau&layout=compact&hide_border=true&langs_count=4" />
-</a>
--->
