@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [LLVM](https://llvm.org/).
 - 📫 How to reach me: [yangtau.me](https://yangtau.me)
 
+<!--
 <img style="display:inline-block;vertical-align:top"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=yangtau" />  
 </a>
+-->
